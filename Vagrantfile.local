@@ -1,0 +1,3 @@
+enable_dns = true
+num_zookeepers = 1
+num_brokers = 3
